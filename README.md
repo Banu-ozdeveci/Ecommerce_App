@@ -32,8 +32,8 @@ $ npm install
 $ npm start
 ```
 # Screenshots
-![WhatsApp Image 2022-03-19 at 18 59 40 (1)](https://user-images.githubusercontent.com/57198659/159128600-9ce7eae3-fe38-43c1-95ca-181fbcddb0a0.jpeg)
-![WhatsApp Image 2022-03-19 at 18 59 40](https://user-images.githubusercontent.com/57198659/159128603-f1e35769-fd24-4957-a3b9-d66ea5009966.jpeg)
+![WhatsApp Image 2022-03-19 at 18 59 40 (1)](https://user-images.githubusercontent.com/57198659/159128600-9ce7eae3-fe38-43c1-95ca-181fbcddb0a0.jpeg 100×100)
+![WhatsApp Image 2022-03-19 at 18 59 40](https://user-images.githubusercontent.com/57198659/159128603-f1e35769-fd24-4957-a3b9-d66ea5009966.jpeg 100×100)
 
 
 ## Contributing
