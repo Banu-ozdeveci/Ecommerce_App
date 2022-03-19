@@ -21,14 +21,16 @@ It contains the home page, sales page, sign-in page, sign-up page, browse page, 
 Use the package manager [npm](https://www.npmjs.com/) to install dependencies.
 
 ```bash
-npm install```
+npm install
+```
 
 
 ## Start
-To run this project,:
+
+To run this project:
 
 ```
-$ cd ../lorem
+$ cd ../projectName
 $ npm start
 ```
 
